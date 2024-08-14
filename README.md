@@ -1,4 +1,6 @@
 # Megaline Telecom Plan Analysis
+![Telecom](telecom.png)
+
 ## Project Overview
 This project involves analyzing customer data from Megaline, a telecom operator that offers two prepaid plans: Surf and Ultimate. The goal of this analysis is to determine which plan generates more revenue and to provide insights into customer behavior based on their usage patterns.
 
